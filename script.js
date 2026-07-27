@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click here to see the motion baby";
+  const startMessage = "final destination~.!!";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
